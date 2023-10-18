@@ -1,7 +1,4 @@
 <h2> Hello, and welcome!</h2>
-<a href= "">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
-</a>
 <a href= "https://www.linkedin.com/in/nashwan-mustafa/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
