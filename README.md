@@ -16,7 +16,7 @@
 
 ### Who I am
 
-An engineer passionate about cloud infrastructure, serverless technologies, and helping folks create secure, scalable infrastructure
+An passionate platform engineer working on cloud infrastructure, serverless technologies, and helping organisations create secure and scalable infrastructure.
 
 ### What I do
 
