@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img width="45%" align="right" alt="Github" src="./imgs/aws.svg" />
+<img width="45%" align="right" alt="Github" src="./imgs/melbourne.png" />
 
 ## The Deets
 
@@ -20,7 +20,7 @@ An engineer passionate about cloud infrastructure, serverless technologies, and 
 
 ### What I do
 
-Terraform, Serverless, Kubernetes and all that jazz
+GoLang, Python, Terraform, Serverless, Kubernetes, and all those platform level engineerings
 
 <div align="center">
 <img width="75%" alt="Terraform" src="./imgs/terraform2.png" />
