@@ -1,5 +1,5 @@
 <h2> Hello, and welcome!</h2>
-<a href= "https://iq.aws/e/bryantbiggs">
+<a href= "">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
 </a>
 <a href= "https://www.linkedin.com/in/nashwan-mustafa/">
