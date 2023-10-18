@@ -20,7 +20,7 @@ An passionate platform engineer working on cloud infrastructure, serverless tech
 GoLang, Python, Terraform, Serverless, Kubernetes, and all those platform level engineerings
 
 <div align="center">
-<img width="75%" alt="Terraform" src="./imgs/tech01" />
+<img width="75%" alt="Terraform" src="./imgs/tech01.png" />
 </div>
 
 <!-- Just a hack for a thin line  -->
