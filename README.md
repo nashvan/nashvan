@@ -17,7 +17,7 @@ An passionate platform engineer working on cloud infrastructure, serverless tech
 
 ### What I do
 
-GoLang, Python, Terraform, Serverless, Kubernetes, and all those platform level engineerings
+GoLang, Python, Terraform, Serverless, Kubernetes, and all those platform level engineering
 
 <div align="center">
 <img width="75%" alt="Terraform" src="./imgs/tech01.png" />
