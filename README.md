@@ -8,11 +8,8 @@
 <br>
 <br>
 
-<img width="45%" align="right" alt="Github" src="./imgs/melbourne.png" />
+<img width="90%" align="centre" alt="Github" src="./imgs/melbourne.png" />
 
-## The Deets
-
-<!-- #### 👉 Available for consultation via the [LinkedIn](https://www.linkedin.com/in/nashwan-mustafa/) or direct C2C 🚀 -->
 
 ### Who I am
 
