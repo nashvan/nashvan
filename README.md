@@ -13,7 +13,7 @@
 
 ### Who I am
 
-An passionate platform engineer working on cloud infrastructure, serverless technologies, and helping organisations create secure and scalable infrastructure.
+An passionate senior platform engineer working on cloud infrastructure, serverless technologies, kubernetes, and helping organisations create secure and scalable infrastructure.
 
 ### What I do
 
