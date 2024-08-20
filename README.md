@@ -17,7 +17,7 @@ A passionate Lead Platform Engineer working on cloud infrastructure, serverless 
 
 ### What I do
 
-GoLang, Python, Terraform, Serverless, Kubernetes, and all those platform level engineering
+AWS, GCP, K8S, EKS, GKE, GoLang, Python, Terraform, Serverless, and all those platform level engineering
 
 <div align="center">
 <img width="75%" alt="Terraform" src="./imgs/tech01.png" />
